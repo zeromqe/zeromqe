@@ -1,5 +1,5 @@
 
-# Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation
+# zeromqe
 This is a repository to reproduce the method from the paper "Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation". The code here allows one to train models to accurately and efficiently upsample voxelized objects to high resolutions, and to reconstruct voxelized objects from single RGB images at high resolutions.
 
 <p align="center">
